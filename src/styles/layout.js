@@ -43,6 +43,6 @@ export const Row = styled.div`
 
 export const Col = styled.div`
   float: ${props => props.last ? 'right' : 'left'};
-  margin-right: ${props => props.last ? 0 : gutter}
+  margin-right: ${props => props.last ? 0 : gutter};
   width: calc(100% * ${props => props.span} / ${columnCount} - ${gutter} * (1 - ${props => props.span} / ${columnCount}));
 `;
