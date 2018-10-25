@@ -19,3 +19,4 @@
     1. `<StyledComponent modified />` instead of `<div className=“styledcomponent modified” />`
 5. Styles encapsulation - no more global component styles.
 6. No need to think of unique classnames for all components.
+7. I'm confident we can accomplish everything that our current system can, with a slight learning curve.
