@@ -6,7 +6,7 @@
 2. May make onboarding more complex. Learning curve for new hires.
 3. Tight coupling with react. Hard to transport styles to non-react projects.
 4. Fairly new technology, could be unforeseen issues.
-5. We lose css instant hot reloading, as each css change is not a javascript change.
+5. We lose css instant hot reloading, as each css change is now a javascript change.
 
 ---
 
